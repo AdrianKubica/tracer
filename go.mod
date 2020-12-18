@@ -1,3 +1,3 @@
-module adriankubica/golang-trace
+module github.com/adriankubica/tracer
 
 go 1.15
